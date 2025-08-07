@@ -105,7 +105,7 @@ Then go to `http://127.0.0.1:8000/` in your browser.
 
 ---
 
-## 🖼 Screenshots
+## Screenshots
 
 * Home Page with Task List
 
@@ -125,12 +125,7 @@ Then go to `http://127.0.0.1:8000/` in your browser.
 
 ---
 
-## 🧑‍💻 Team Members
-* **Ayesha** 
-
----
-
-## ❤️ Made With Love
+## Made With Love ❤️ - Ayesha
 
 ©2025 Flask Todo App. All rights reserved.
 
